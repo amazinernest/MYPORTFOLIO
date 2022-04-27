@@ -637,18 +637,19 @@ a:focus {
   }
 }
 
-.ti-align-right {
+.ti-line-double {
   color: white;
-  height: 50px;
 }
 
 @media (max-width: 480px) {
   .navigation {
     background: #000000 !important;
   }
+
   .navbar-toggler {
-    /* background: #fff !important; */
+    /* border-color: #fff !important; */
   }
+
   .text-lg {
     font-size: 52px;
     line-height: 52px;
